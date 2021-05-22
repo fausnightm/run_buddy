@@ -125,6 +125,8 @@ header {
   }
    /* Hero Style End */
 
+   /* What We Do Style */
+
   .intro {
     text-align: center;
   }
@@ -137,6 +139,9 @@ header {
     margin: 0 auto;
   }
 
+  /* What We Do Style End */
+
+  /* What you Do Style Start */
   .steps {
     text-align: center;
     background: #fce138;
@@ -182,7 +187,9 @@ header {
   .steps span {
     font-size: 38px;
   }
+ /* What You Do Style Ends */
 
+ /* Meet the Trainers Style Start */
   .trainers {
     text-align: center;
   }
@@ -229,6 +236,7 @@ header {
     font-size: 17px;
     line-height: 1.3;
   }
+  /* Meet The Trainers Style End */
 
   /* REACH OUT STYLES START */
   .contact {
@@ -254,7 +262,23 @@ header {
     color: white;
   }
 
+  .contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+  }
 
+  .contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+  }
+
+  .contact-info a {
+    color: #fce138;
+  }
+
+/* REACH OUT STYLES END */
 
 
 
