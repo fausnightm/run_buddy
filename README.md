@@ -17,3 +17,5 @@ https://fausnightm.github.io/run_buddy/
 
 Made with ❤️ by Max Fausnight
 
+### ©️2019 Run Buddy, Inc 
+
