@@ -1,4 +1,4 @@
-# Run Buddy, Inc.
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -16,4 +16,6 @@ https://fausnightm.github.io/run_buddy/
 ## Contribution
 
 Made with ❤️ by Max Fausnight
+
+### ©️2019 Run Buddy, Inc 
 
